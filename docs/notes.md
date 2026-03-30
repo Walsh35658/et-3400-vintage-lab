@@ -11,3 +11,4 @@ Notes and usage details for et-3400-vintage-lab.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
